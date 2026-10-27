@@ -1,0 +1,22 @@
+{
+  "name": "com.kamahir0.custom-project-window",
+  "displayName": "Lilja Custom Project Window",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "A customizable project window for organizing Unity assets.",
+  "keywords": [
+    "lilja",
+    "editor",
+    "project-window"
+  ],
+  "author": {
+    "name": "kamahir0",
+    "url": "https://github.com/kamahir0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamahir0-lilja/CustomProjectWindow.git",
+    "directory": "Packages/com.kamahir0.custom-project-window"
+  }
+}
